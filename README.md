@@ -37,9 +37,3 @@ The hybrid CNN-LSTM model consists of:
 - Learning rate scheduling
 - F1-score tracking during training
 - Comprehensive visualization of training metrics
-
-## Installation
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/eeg-classification.git
-   cd eeg-classification
